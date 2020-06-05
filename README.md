@@ -1,4 +1,4 @@
-# Visual-history-of-Nobel-Prize-winners
+# Visual history of Nobel Prize winners
 
 ## DataCamp Project on Nobel Prize Data Visualization
 
